@@ -1,0 +1,12 @@
+{
+  "name": "simple-chat-app",
+  "version": "1.0.0",
+  "main": "Chatroom.js",
+  "scripts": {
+    "start": "node Chatroom.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "20.x"
+  }
+}
